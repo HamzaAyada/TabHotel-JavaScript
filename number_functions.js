@@ -19,7 +19,7 @@ function checkInput()
            }
        }
    }else {
-       alert('La somme des chiffre doit etre éguale à 3, 6 ou bien 9 ! ')
+       alert('La somme des chiffres doit être éguale à 3, 6 ou bien 9 ! ')
    }
 }
 
